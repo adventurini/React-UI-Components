@@ -1,1 +1,12 @@
 /* All styles for your Card Components live here */
+.bannerImage{
+    width: 100%;
+}
+
+.cardContainer{
+    margin-left:8rem;
+    margin-right: 2rem;
+}
+
+.cardContent{
+}
