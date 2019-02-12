@@ -1,0 +1,16 @@
+.num, .ops{
+    width: 25%;
+    height: 6rem;
+    font-size: 32px;
+}
+
+.action{
+    width: 75%;
+    height: 6rem;
+    font-size: 32px;
+
+}
+
+.ops{
+    background-color:maroon;
+}
