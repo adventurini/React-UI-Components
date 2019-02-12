@@ -8,5 +8,11 @@
     margin-right: 2rem;
 }
 
-.cardContent{
+p, .rjs, h4, a{
+    text-decoration:none;
+    color:black;
+}
+
+.rjs{
+    color: gray;
 }
